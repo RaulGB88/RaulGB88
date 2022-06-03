@@ -1,4 +1,4 @@
-# ![cosmic red header](https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover)
+# ![cosmic red header]([https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover](https://media-exp1.licdn.com/dms/image/C4D16AQEgcjjBNqmb1g/profile-displaybackgroundimage-shrink_200_800/0/1579955930882?e=1659571200&v=beta&t=sy7kTy7vnNG5jRlfkNytGiIQ8Cf6G2X3T78qhUvfV4I))
 
 
 - 👨🏻‍💻 Java web developer. 
