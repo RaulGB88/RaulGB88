@@ -1,6 +1,8 @@
 # ![cosmic red header](https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover)
 
 
+✨ Always learning ✨
+
 - 👨🏻‍💻 Java web developer. 
 - 💻 Spring Framework · Struts · Hibernate · JPA · Maven · Git. 
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
