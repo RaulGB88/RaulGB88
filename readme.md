@@ -9,4 +9,6 @@
 - 📚 DAM · I'm studying Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
 - 📫 Reach me on [Twitter](https://twitter.com/RaulGB88)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulGB88&count_private=true&show_icons=true&theme=radical)
+#[GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulGB88&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulGB88&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulGB88)](https://github.com/anuraghazra/github-readme-stats)
