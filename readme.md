@@ -1,6 +1,5 @@
 # ![cosmic red header](https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover)
 
-
 ✨ Always learning ✨
 
 - 👨🏻‍💻 Application Java Developer. 
@@ -10,4 +9,3 @@
 - 📫 Reach me on [Twitter](https://twitter.com/RaulGB88)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaulGB88&theme=react&line_height=40&hide=css"/> </a>
-![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=RaulGB88&count_private=true&show_icons=true&theme=radical)
