@@ -1,4 +1,5 @@
-# ![TaulGB88 Tiwtter profile](https://twitter.com/RaulGB88/header_photo)
+# ![RaulGB88 Tiwtter profile](https://twitter.com/RaulGB88/header_photo)
+
 
 ✨ Always learning ✨
 
