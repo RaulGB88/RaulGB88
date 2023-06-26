@@ -1,5 +1,4 @@
-# ![RaulGB88 Tiwtter profile](https://twitter.com/RaulGB88/header_photo)
-
+#  ![cosmic red header](https://assets.codepen.io/527512/twitch_cover.jpg?width=1000&height=200&format=auto&fit=cover)
 
 ✨ Always learning ✨
 
